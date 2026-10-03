@@ -1,0 +1,7 @@
+{
+  "name": "VoiceCraft - AI Text to Speech Studio",
+  "description": "แปลงข้อความเป็นเสียงพูด AI คุณภาพสูง ปรับแต่งความเร็ว โทนเสียง ทุ้ม-แหลม และดาวน์โหลดไฟล์เสียงได้ทันที",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
